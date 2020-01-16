@@ -1,7 +1,8 @@
 <template>
     <div>
-        首页
+        用户登录注册页
     </div>
+
 </template>
 
 <script>
